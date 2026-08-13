@@ -9,6 +9,10 @@
 
 </div>
 
+---
+
+## 🎥 30-Second Intro
+
 <!--
 Replace the line below once your video is uploaded. Easiest path:
 1. Open a new GitHub Issue on any of your public repos (doesn't need to be filed).
