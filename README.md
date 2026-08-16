@@ -21,7 +21,7 @@ Replace the line below once your video is uploaded. Easiest path:
 3. Paste that link below, replacing the placeholder.
 -->
 
-
+https://github.com/vijeraghu/vijeraghu/raw/refs/heads/main/assets/intro.mp4
 ---
 
 ## Who I Am
